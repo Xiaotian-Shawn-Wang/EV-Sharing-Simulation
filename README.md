@@ -6,8 +6,8 @@ To run the simulation, launch WebApp_V5 and upload data files about station loca
 To have a clean web-application view, click the "Voila" tab in the tool bar.
 
 3. Files list:
-Node_xiaotian_V10.ipynb    structure definition;
-WebApp_V5.ipynb		       input and output;
+simulation_structure_V1.ipynb    structure definition;
+simulation_display_V1.ipynb		       input and output;
 Sampling0616.py		       demand sampling;
 Station_info.cvs           a station information sample;
 demand_file.csv            a demand sample;
