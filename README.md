@@ -1,4 +1,4 @@
-You can download files and run on your local machine or play with the test example here:
+You can download files and run on your local machine or play with the test example here (with password test123):
 [Conduct Simulation Now](http://localhost:8888/voila/render/Box/Xiaotian's%20Research/EV%20Simulation/WebApp_V5.ipynb)
 
 1. Prerequisite:
