@@ -1,3 +1,6 @@
+You can download files and run on your local machine or play with the test example here:
+[Conduct Simulation Now](http://localhost:8888/voila/render/Box/Xiaotian's%20Research/EV%20Simulation/WebApp_V5.ipynb)
+
 1. Prerequisite:
 Packages: csv, import_ipynb, ipyleaflet, ipywidgets, matplotlib, numpy, pandas. 
 
@@ -12,5 +15,3 @@ Sampling0616.py		       demand sampling;
 Station_info.cvs           a station information sample;
 demand_file.csv            a demand sample;
 
-Play with the test example
-[Conduct Simulation Now](http://localhost:8888/voila/render/Box/Xiaotian's%20Research/EV%20Simulation/WebApp_V5.ipynb)
