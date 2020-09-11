@@ -5,7 +5,7 @@ You can download files and run on your local machine or play with the test examp
 Packages: csv, import_ipynb, ipyleaflet, ipywidgets, matplotlib, numpy, pandas. 
 
 2. Download all files to your local machine.
-To run the simulation, launch WebApp_V5 and upload data files about station locations and demands. Please refer to files in "Data" folder for the data format.
+To run the simulation, launch simulation_display_V1 and upload data files about station locations and demands. Please refer to files in "Data" folder for the data format.
 To have a clean web-application view, click the "Voila" tab in the tool bar.
 
 3. Files list:
